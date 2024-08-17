@@ -27,3 +27,11 @@ h1 {
   display: flex;
   flex-wrap: wrap;
 }
+
+.alaotsikko {
+	font-family: Arial, sans-serif;
+}
+
+.linkit {
+	font-family: Arial, sans-serif;
+}
