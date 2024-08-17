@@ -9,8 +9,7 @@ h1 {
 .container {
   display: flex;
   justify-content: center;
-  align-items: center;
-  border: 3px solid green; 
+  align-items: center; 
 }
 .break {
   flex-basis: 100%;
