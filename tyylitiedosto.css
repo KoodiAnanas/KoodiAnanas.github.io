@@ -7,13 +7,11 @@ h1 {
 }
 
 .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-	flex-wrap: wrap;
-	font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  border: 3px solid green; 
 }
 .break {
   flex-basis: 100%;
